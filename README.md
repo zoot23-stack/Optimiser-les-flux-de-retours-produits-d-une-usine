@@ -3,6 +3,8 @@
 L'entreprise Retail&Log livre des articles du quotidien aux particuliers. Certains articles sont fréquemment expédiés et retournés : leur remise en stock mobilise les opérateurs alors qu’ils peuvent être réexpédiés rapidement.
 Ma mission consiste à analyser les flux de sorties et de retours pour éclairer leur organisation et l’utilisation envisagée d’une trieuse comme stock intermédiaire.
 
+![Page d'accueil](Dashboard_Power_BI_Github#1.png)
+
 ## Problématique
 Quels articles prioriser pour réduire les manipulations de remise en stock et faciliter leur réexpédition ?
 
@@ -39,6 +41,8 @@ La méthode proposée dans le cahier des charges attribue un facteur à chaque c
 
 ## Analyse des flux et des Top 20
 Les visualisations comparent les quantités de sorties et de retours dans le temps. Deux classements Top 20 et une vue des articles communs permettent de rapprocher les références les plus expédiées de celles les plus retournées.
+
+![Top20](Dashboard_Power_BI_Top_20.png)
 
 ## Démarche d’analyse
 1. Comprendre le processus métier : retours, remise en stock, préparation, empaquetage et expédition.
