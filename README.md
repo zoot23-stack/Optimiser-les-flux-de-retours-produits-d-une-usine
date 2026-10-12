@@ -3,7 +3,7 @@
 L'entreprise Retail&Log livre des articles du quotidien aux particuliers. Certains articles sont fréquemment expédiés et retournés : leur remise en stock mobilise les opérateurs alors qu’ils peuvent être réexpédiés rapidement.
 Ma mission consiste à analyser les flux de sorties et de retours pour éclairer leur organisation et l’utilisation envisagée d’une trieuse comme stock intermédiaire.
 
-![Page d'accueil](Dashboard_Power_BI_Github#1.png)
+![Accueil](Dashboard_Power_BI_Github#1.png)
 
 ## Problématique
 Quels articles prioriser pour réduire les manipulations de remise en stock et faciliter leur réexpédition ?
